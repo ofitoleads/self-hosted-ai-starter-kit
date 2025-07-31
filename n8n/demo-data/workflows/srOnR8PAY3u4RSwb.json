@@ -4,6 +4,7 @@
   "id": "srOnR8PAY3u4RSwb",
   "name": "Demo workflow",
   "active": false,
+  
   "nodes": [
     {
       "parameters": {},
