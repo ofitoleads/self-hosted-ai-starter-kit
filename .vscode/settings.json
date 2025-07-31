@@ -1,0 +1,13 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./n8n",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}ghcr.io/biomejs/biome:{major}
+ghcr.io/biomejs/biome:{major}.{minor}
+ghcr.io/biomejs/biome:{major}.{minor}.{patch}
