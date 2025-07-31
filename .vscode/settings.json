@@ -8,6 +8,4 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true
-}ghcr.io/biomejs/biome:{major}
-ghcr.io/biomejs/biome:{major}.{minor}
-ghcr.io/biomejs/biome:{major}.{minor}.{patch}
+}
